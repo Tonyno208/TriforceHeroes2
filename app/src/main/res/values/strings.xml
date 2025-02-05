@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- General -->
+    <string name="app_name">TriforceHeroes</string>
+    <string name="btn_return">Volver</string>
+
+    <!-- LoginFragment -->
+    <string name="login_title">- INICIO DE SESION -</string>
+    <string name="msg_main_welcome">Bienvenido a TriforceHeroes!</string>
+    <string name="et_main_hint">Usuario</string>
+    <string name="msg_main_advise">Primero, introduce tu nombre</string>
+    <string name="btn_main_login">Iniciar sesion</string>
+
+    <!-- MenuFragment -->
+    <string name="main_menu_title">- MENU PRINCIPAL -</string>
+    <string name="msg_menu_welcome">%s, bienvenido a TriforceHeroes!</string>
+    <string name="btn_collection">Mi coleccion</string>
+    <string name="btn_catalog">Catalogo</string>
+    <string name="img_description_settings">Ajustes</string>
+    <string name="img_description_userInfo">Informacion de usuario</string>
+
+    <!-- CreditFragment -->
+    <string name="credit_title">- AJUSTES -</string>
+    <string name="img_description_light">Modo claro</string>
+    <string name="img_description_dark">Modo oscuro</string>
+    <string name="language_es">Espanol</string>
+    <string name="language_en">English</string>
+    <string name="language_current">Espanol</string>
+
+    <!-- UserInfoFragment -->
+    <string name="user_info_title">Informacion del Usuario</string>
+    <string name="user_name">Usuario: %s</string>
+    <string name="user_fav_count">Tienes %d juegos favoritos</string>
+    <string name="user_fav_count_0">No tienes juegos favoritos aun.</string>
+    <string name="user_fav_count_1">Tienes %d juego favorito.</string>
+    <string name="user_fav_count_n">Tienes %d juegos favoritos.</string>
+    <string name="btn_logout">Cerrar Sesion</string>
+    <string name="select_logo_title">Selecciona tu logo</string>
+    <string name="user_name_placeholder">Nombre de usuario</string>
+    <string name="fav_count_placeholder">Contador de juegos favoritos</string>
+    <string name="btn_contact_support">Contactar</string>
+
+    <!-- item_games -->
+    <string name="CountryTit">Pais</string>
+    <string name="YearTit">Ano</string>
+    <string name="ValueTit">Valor</string>
+    <string name="DetallesTit">Detalles</string>
+
+    <!-- ItemList -->
+    <string name="item_list_title">- CATALOGO -</string>
+    <string name="item_image_description">Imagen del juego</string>
+    <string name="btn_favourites">Favoritos</string>
+
+    <!-- DetailItemList -->
+    <string name="detail_item_list_title">- DETALLES -</string>
+
+    <!-- FavItemList -->
+    <string name="fav_item_list_title">- FAVORITOS -</string>
+    <string name="btn_favorites">Mis Favoritos</string>
+    <string name="welcome_icon_description">Icono de bienvenida</string>
+    <string name="favorites_icon_description">Icono de favoritos</string>
+    <string name="catalog_icon_description">Icono del catalogo</string>
+    <string name="fav_item_fab_description">Anadir comentario</string>
+    <string name="error_empty_username">Por favor, introduce un nombre de usuario</string>
+    <string name="splash_logo">Logo de la aplicacion</string>
+    <string name="title_label">Titulo</string>
+    <string name="platform_label">Plataforma</string>
+    <string name="year_label">Ano</string>
+    <string name="description_label">Descripcion</string>
+    <string name="menu_user_info">Informacion del usuario</string>
+    <string name="menu_settings">Configuracion</string>
+    <string name="logo_description">Logotipo de TriforceHeroes</string>
+    <string name="msg_logout_success">Sesion cerrada correctamente</string>
+    <string name="no_comments">Sin comentarios</string>
+    <string name="comment_title">Comentario</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="comment_saved">Comentario guardado</string>
+
+
+</resources>

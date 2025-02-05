@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores Base -->
+    <!-- Verde Kokiri -->
+    <color name="md_theme_primary">#4CAF50</color>
+    <color name="md_theme_onPrimary">#FFFFFF</color>
+    <color name="md_theme_primaryContainer">#A5D6A7</color>
+    <color name="md_theme_onPrimaryContainer">#1B5E20</color>
+    <color name="primaryColor">#FFF7E6</color>
+
+    <!-- Azul Zora -->
+    <color name="md_theme_secondary">#2196F3</color>
+    <color name="md_theme_onSecondary">#FFFFFF</color>
+    <color name="md_theme_secondaryContainer">#90CAF9</color>
+    <color name="md_theme_onSecondaryContainer">#0D47A1</color>
+
+    <!-- Dorado Hyliano -->
+    <color name="md_theme_tertiary">#FFD700</color>
+    <color name="md_theme_onTertiary">#654B00</color>
+    <color name="md_theme_tertiaryContainer">#FFECB3</color>
+    <color name="md_theme_onTertiaryContainer">#5D4037</color>
+
+    <!-- Rojo Goron -->
+    <color name="md_theme_error">#D84315</color>
+    <color name="md_theme_onError">#FFFFFF</color>
+    <color name="md_theme_errorContainer">#FFAB91</color>
+    <color name="md_theme_onErrorContainer">#BF360C</color>
+
+    <!-- Fondo y Superficies -->
+    <color name="md_theme_background">#FFF8E1</color>
+    <color name="md_theme_onBackground">#3E2723</color>
+    <color name="md_theme_surface">#FFF3E0</color>
+    <color name="md_theme_onSurface">#3E2723</color>
+
+    <!-- Otros Colores -->
+    <color name="md_theme_outline">#6D4C41</color>
+    <color name="md_theme_inverseSurface">#3E3B3A</color>
+    <color name="md_theme_inverseOnSurface">#FFF7E6</color>
+
+    <!-- Medium Contrast -->
+    <color name="md_theme_primary_mediumContrast">#2E7D32</color>
+    <color name="md_theme_onPrimary_mediumContrast">#FFFFFF</color>
+    <color name="md_theme_primaryContainer_mediumContrast">#81C784</color>
+    <color name="md_theme_onPrimaryContainer_mediumContrast">#1B5E20</color>
+
+    <color name="md_theme_secondary_mediumContrast">#0277BD</color>
+    <color name="md_theme_onSecondary_mediumContrast">#FFFFFF</color>
+    <color name="md_theme_secondaryContainer_mediumContrast">#64B5F6</color>
+    <color name="md_theme_onSecondaryContainer_mediumContrast">#01579B</color>
+
+    <color name="md_theme_tertiary_mediumContrast">#D4A017</color>
+    <color name="md_theme_onTertiary_mediumContrast">#3A2500</color>
+
+    <color name="md_theme_background_mediumContrast">#F5F5F5</color>
+    <color name="md_theme_onBackground_mediumContrast">#1E1E1E</color>
+    <color name="md_theme_surface_mediumContrast">#FAFAFA</color>
+    <color name="md_theme_onSurface_mediumContrast">#212121</color>
+
+    <!-- High Contrast -->
+    <color name="md_theme_primary_highContrast">#1B5E20</color>
+    <color name="md_theme_onPrimary_highContrast">#FFFFFF</color>
+    <color name="md_theme_primaryContainer_highContrast">#4CAF50</color>
+    <color name="md_theme_onPrimaryContainer_highContrast">#003300</color>
+
+    <color name="md_theme_secondary_highContrast">#01579B</color>
+    <color name="md_theme_onSecondary_highContrast">#FFFFFF</color>
+    <color name="md_theme_secondaryContainer_highContrast">#0288D1</color>
+    <color name="md_theme_onSecondaryContainer_highContrast">#002171</color>
+
+    <color name="md_theme_tertiary_highContrast">#B8860B</color>
+    <color name="md_theme_onTertiary_highContrast">#1F1200</color>
+
+    <color name="md_theme_background_highContrast">#FFFFFF</color>
+    <color name="md_theme_onBackground_highContrast">#000000</color>
+    <color name="md_theme_surface_highContrast">#FAFAFA</color>
+    <color name="md_theme_onSurface_highContrast">#000000</color>
+    <color name="secondaryColor">#FFD700</color> <!-- Dorado Hyliano -->
+    <color name="errorColor">#D32F2F</color> <!-- Rojo Goron -->
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>
