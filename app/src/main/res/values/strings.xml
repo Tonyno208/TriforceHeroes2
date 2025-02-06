@@ -76,6 +76,9 @@
     <string name="save">Guardar</string>
     <string name="cancel">Cancelar</string>
     <string name="comment_saved">Comentario guardado</string>
+    <string name="logo_default">Logo Default</string>
+    <string name="logo_light">Logo Light</string>
+    <string name="logo_dark">Logo Dark</string>
 
 
 </resources>
